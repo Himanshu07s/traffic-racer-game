@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/lnplusmusic-action-racing-speed-music-331470.mp3-92f7691dd748073512d45d682af97a91.mp3str"
+
+[deps]
+
+source_file="res://lnplusmusic-action-racing-speed-music-331470.mp3"
+dest_files=[ "res://.import/lnplusmusic-action-racing-speed-music-331470.mp3-92f7691dd748073512d45d682af97a91.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
