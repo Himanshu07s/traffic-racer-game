@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/u_mgq59j5ayf-sound-effect-car-crash-394903.mp3-cabcf6c3c7a77d88cf9138c1c634db3a.mp3str"
+
+[deps]
+
+source_file="res://u_mgq59j5ayf-sound-effect-car-crash-394903.mp3"
+dest_files=[ "res://.import/u_mgq59j5ayf-sound-effect-car-crash-394903.mp3-cabcf6c3c7a77d88cf9138c1c634db3a.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
